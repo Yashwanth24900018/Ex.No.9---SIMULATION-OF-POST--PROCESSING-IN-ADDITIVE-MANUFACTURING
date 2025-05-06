@@ -47,8 +47,17 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2025-05-06 204320](https://github.com/user-attachments/assets/612d9d8c-7a77-4806-8dd4-36aa07e631b7)
+
+![Screenshot 2025-05-06 204331](https://github.com/user-attachments/assets/e22d49aa-2b41-44da-a070-76b0f3a1d11b)
+
+![Screenshot 2025-05-06 204338](https://github.com/user-attachments/assets/779978ab-b38c-4ee5-a525-ef16aad26d10)
+
+
+
+
+### Name:yashwanth.asv
+### Register Number:212224230309
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
